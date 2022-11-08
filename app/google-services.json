@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875269530603",
+    "firebase_url": "https://cruzadas-app-68a4f-default-rtdb.firebaseio.com",
+    "project_id": "cruzadas-app-68a4f",
+    "storage_bucket": "cruzadas-app-68a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875269530603:android:c69c71c8b1e0393b046fae",
+        "android_client_info": {
+          "package_name": "com.cruzadasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875269530603-7s2bj0e8abiitb4s5ft3flicvk967keh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWLSkWteBJtvdIJ8vBroWG5A9TThBL0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875269530603-7s2bj0e8abiitb4s5ft3flicvk967keh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
