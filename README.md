@@ -1,10 +1,20 @@
 # Cruzadas-app
-Esta es una aplicación realizada en Android Studio para dispositivos Android. La app cuenta con un sistema de autenticación 
-y con el servicio de reestablecimiento de contraseña por Email. Su objetivo es la recolección datos escritos
-y fotográficos que posteriormente se almacenan en una base de datos en Firebase.
+You can look for the backend Files of this app going to files: 
+Login.java
+MainActivity.java
+Register.java
 
-La documentación Backend la pueden encontrar en la siguiente ruta: 
-Cruzadas-app/app/src/main/java/com/cruzadasapp/
+You can look for the frontend files of this app going to files:
+activity_login.xml
+activity_main.xml
+activity_register.xml
+//--o--//
+Los archivos backend de la app los pueden encontrar como:
+Login.java
+MainActivity.java
+Register.java
 
-La documentación Frontend la encontrarán en la siguiente ruta: 
-Cruzadas-app/app/src/main/res/layout/
+Los archivos Frontend de la app los pueden encontrar como: 
+activity_login.xml
+activity_main.xml
+activity_register.xml
