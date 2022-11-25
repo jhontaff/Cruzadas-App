@@ -5,3 +5,5 @@ y fotográficos que posteriormente se almacenan en una base de datos en Firebase
 
 La documentación Backend la pueden encontrar en la siguiente ruta: Cruzadas-app/app/src/main/java/com/cruzadasapp/
 Ahí, se puede encontrar la programación de cada ventana que maneja la app.
+
+La documentación Frontend la encontrarán en la siguiente ruta: Cruzadas-app/app/src/main/res/layout/
